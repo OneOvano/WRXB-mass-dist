@@ -1,5 +1,5 @@
 # WRXB-mass-dist
- Mass distribution for WR, NS and BH for close binaries from our and some Local Group galaxies 
+ Mass distribution for WR, NS and BH for close binaries from Milky Way and some Local Group galaxies 
 
 catalogs/ - catalogues used in the work. Each catalog contains the following file:
 
