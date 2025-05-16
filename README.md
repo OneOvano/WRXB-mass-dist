@@ -6,3 +6,5 @@ catalogs/
 test.ipynb
 
 WRXB-mass-dist.ipynb
+
+README.md
